@@ -20,3 +20,6 @@ https://roadmap.sh/projects/js-grade-report-generator
 
 
 https://roadmap.sh/projects/js-task-list-utilities
+
+
+https://roadmap.sh/projects/js-expense-summary
