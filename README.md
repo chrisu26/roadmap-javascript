@@ -23,3 +23,5 @@ https://roadmap.sh/projects/js-task-list-utilities
 
 
 https://roadmap.sh/projects/js-expense-summary
+
+https://roadmap.sh/projects/js-product-search-and-filter
